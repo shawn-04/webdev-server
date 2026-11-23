@@ -1,0 +1,7 @@
+[
+  { "_id": "RS101", "name": "Rocket Propulsion", "number": "RS4550", "startDate": "2023-01-10", "endDate": "2023-05-15", "department": "D123", "credits": 4, "term": "Spring 2023", "image": "/images/rocket.jpg", "description": "Principles of rocket propulsion and engine design" },
+  { "_id": "RS102", "name": "Aerodynamics", "number": "RS4560", "startDate": "2023-01-10", "endDate": "2023-05-15", "department": "D123", "credits": 3, "term": "Spring 2023", "image": "/images/aero.jpg", "description": "Airflow, lift, drag, and supersonic flight" },
+  { "_id": "RS103", "name": "Spacecraft Design", "number": "RS4570", "startDate": "2023-01-10", "endDate": "2023-05-15", "department": "D123", "credits": 4, "term": "Spring 2023", "image": "/images/spacecraft.avif", "description": "Designing spacecraft systems for orbit and beyond" },
+  { "_id": "RS104", "name": "Organic Chemistry", "number": "RS4580", "startDate": "2023-01-10", "endDate": "2023-05-15", "department": "D123", "credits": 4, "term": "Spring 2023", "image": "/images/org.avif", "description": "Structure and reactions of carbon compounds" },
+  { "_id": "RS105", "name": "Web Development", "number": "CS5610", "startDate": "2023-01-10", "endDate": "2023-05-15", "department": "D123", "credits": 4, "term": "Spring 2023", "image": "/images/webdev.png", "description": "Full stack web applications with React, Next.js, Node.js, and MongoDB" }
+]
